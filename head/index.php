@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Приклад POST запиту для AJAX на чистому JS</title>
+	<title>Приклад HEAD запиту для AJAX на чистому JS</title>
 	<script>
 		window.onload = function () {
 			var result = document.getElementById("result");
