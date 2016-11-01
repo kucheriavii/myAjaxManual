@@ -9,7 +9,7 @@
 	<meta charset="UTF-8">
 	<title>Приклад HEAD запиту для AJAX на чистому JS</title>
 	<script>
-		window.onload = function () {
+		window.onload = function() {
 			var result = document.getElementById("result");
 			//стоворюємо обєкт аяксу
 			var ajax = new XMLHttpRequest();
